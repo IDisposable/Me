@@ -1,7 +1,7 @@
 # Marc's backlog, a.k.a. "Why is X not being worked on?"
 
 ## Background
-Being a finite human being I have a limited amount of time available. Rather than pretend I can do it all, I have to recognize that I cannot. Likewise, my memory is finite so I need a place to put down my public TODO list.  Inspired by Pete Batard's [https://github.com/pbatard/libwdi/wiki/Backlog](backlog) entry, I'm doing the same here.
+Being a finite human being I have a limited amount of time available. Rather than pretend I can do it all, I have to recognize that I cannot. Likewise, my memory is finite so I need a place to put down my public TODO list.  Inspired by  [https://github.com/pbatard/libwdi/wiki/Backlog (Pete Batard's backlog] entry, I'm doing the same here.
 
 Every so often (more times than I'd like to have to answer), I get asked about the state of feature X from one of my projects, and when it will become available. Because of this, I have decided to create a page that I can simply point to, to try to answer these questions and capture the list of things I would do if I had infinite time. Many of these things are coding related, so are not.
 

@@ -17,7 +17,7 @@ And so, without further ado, please find below the state of my current backlog, 
 <del>[[images/r.png]]: [http://rufus.akeo.ie rufus]<br/></del>Coming soon<br/>
 
 ### High priority
-[[images/r.png]]: [https://github.com/IDisposable/Me/edit/master/README.md this backlog] (Est. '''&infin;''' days)<br/>
+[[images/r.png]]: [this backlog](https://github.com/IDisposable/Me/edit/master/README.md) (Est. '''&infin;''' days)<br/>
 
 ### High priority, if only I had more time
 [[images/r.png]]: Sum ting (Est. 1 weeks)<br/>

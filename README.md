@@ -1,6 +1,3 @@
-# Me
-A place to document myself
-
 = Marc's backlog, a.k.a. "Why is X not being worked on?" =
 
 == Background ==
